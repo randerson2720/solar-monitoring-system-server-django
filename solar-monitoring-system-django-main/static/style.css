@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+}
+
+.chart-container {
+    width: 45%;
+    height: 300px;
+    margin: 15px;
+    float: left;
+}
